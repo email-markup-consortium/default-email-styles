@@ -1,0 +1,107 @@
+{
+	"table": [{
+			"gmail": {}
+		},
+		{
+			"outlook": {
+				"font": {
+					"value": "inherit",
+					"selector": "table",
+					"selectorWeigth": {
+						"inline": 0,
+						"important": 0,
+						"id": 0,
+						"class": 0,
+						"element": 1
+					}
+				}
+			}
+		}
+	],
+	"td": [{
+			"gmail": {
+
+			}
+		},
+		{
+			"outlook": {
+				"white-space": {
+					"value": "normal !important",
+					"selector": ".fEEQb td",
+					"selectorWeigth": {
+						"inline": 0,
+						"important": 1,
+						"id": 0,
+						"class": 1,
+						"element": 1
+					}
+				}
+			}
+		}
+	],
+	"h1": [{
+			"gmail": {
+
+			}
+		},
+		{
+			"outlook": {
+
+			}
+		}
+	],
+	"p": [{
+			"gmail": {
+
+			}
+		},
+		{
+			"outlook": {
+
+			}
+		}
+	],
+	"ul": [{
+			"gmail": {
+
+			}
+		},
+		{
+			"outlook": {
+
+			}
+		}
+	],
+	"ol": [{
+			"gmail": {
+
+			}
+		},
+		{
+			"outlook": {
+
+			}
+		}
+	],
+	"li": [{
+			"gmail": {
+				"margin-left": {
+					"value": "15px",
+					"selector": ".gs li",
+					"selectorWeigth": {
+						"inline": 0,
+						"important": 0,
+						"id": 0,
+						"class": 1,
+						"element": 1
+					}
+				}
+			}
+		},
+		{
+			"outlook": {
+
+			}
+		}
+	]
+}
